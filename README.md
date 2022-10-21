@@ -26,7 +26,6 @@ Mediante la implementación del patrón de diseño Facade implementaremos un sis
 ![image](https://user-images.githubusercontent.com/55771796/174156476-53979868-40f2-4491-88a3-1485ed2f0720.png)
 
 ### Ejecucion
+* Cargue las Extensiones Java de VS Code correcta y completamente.
+* En la clase principal de clic sobre el botón Play.
 
-```
-gradle run
-```
